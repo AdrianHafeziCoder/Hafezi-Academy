@@ -5,12 +5,13 @@ import App from "./App";
 import "./index.css";
 
 // Apply the saved theme (dark/light) before the page is shown
-if (localStorage.getItem("theme") === "dark")
+if (localStorage.getItem("theme") === "dark") {
   document.documentElement.classList.add("dark");
+}
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/Hafezi-Academy">
       <App />
     </BrowserRouter>
   </StrictMode>,
