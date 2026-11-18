@@ -1,3 +1,8 @@
 node_modules
 dist
 .env
+
+debug-dump.txt
+dump.txt
+project-dump.txt
+swagger.json
