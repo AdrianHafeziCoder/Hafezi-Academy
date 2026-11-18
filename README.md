@@ -24,6 +24,11 @@ npm run dev
 - `routes` routes
 - `services` API communication
 
+## Demo Login Credentials
+```
+Email: avamaghsodi2424@gmail.com
+Password: AdrianHafezi
+```
 ## Changing the API URL
 
 Rename the `.env.example` file to `.env` and change the value of `VITE_ADMIN_API_URL`.
