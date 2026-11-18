@@ -1,4 +1,4 @@
-# Hafezi Academy Admin Panel
+# Hafezi Academy Admin Panel Template
 
 ## Run
 
