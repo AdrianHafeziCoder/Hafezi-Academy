@@ -1,4 +1,4 @@
-# Hafezi Academy Admin Panel Template
+# Hafezi Academy Admin Panel Template  [Link](https://adrianhafezicoder.github.io/Hafezi-Academy/)
 
 ## Run
 
