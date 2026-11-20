@@ -27,7 +27,7 @@ npm run dev
 ## Demo Login Credentials
 ```
 Email: avamaghsodi2424@gmail.com
-Password: AdrianHafezi
+Password: aida242424
 ```
 ## Changing the API URL
 
